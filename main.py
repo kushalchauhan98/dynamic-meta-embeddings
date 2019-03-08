@@ -1,4 +1,3 @@
-import sys
 import argparse
 from functools import partial
 from torchtext import data, vocab

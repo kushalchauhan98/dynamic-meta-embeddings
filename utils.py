@@ -1,6 +1,5 @@
 import os
 from torchtext import vocab
-from functools import partial
 from overrides import overrides
 
 
